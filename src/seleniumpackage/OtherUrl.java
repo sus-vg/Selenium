@@ -16,7 +16,7 @@ public class OtherUrl {
         System.out.println("Page title is: " + driver1.getTitle());
         System.out.println("Current URL is: " + driver1.getCurrentUrl());
         System.out.println("Page source length is: " + driver1.getPageSource().length());
-        System.out.println("Page source length is: " + driver1.getPageSource());
+        System.out.println("Page source is: " + driver1.getPageSource());
         driver1.quit();
 
         
@@ -25,7 +25,7 @@ public class OtherUrl {
         System.out.println("Page title is: " + driver2.getTitle());
         System.out.println("Current URL is: " + driver2.getCurrentUrl());
         System.out.println("Page source length is: " + driver2.getPageSource().length());
-        System.out.println("Page source length is: " + driver2.getPageSource());
+        System.out.println("Page source is: " + driver2.getPageSource());
         driver2.quit();
 
         
@@ -34,7 +34,7 @@ public class OtherUrl {
         System.out.println("Page title is: " + driver3.getTitle());
         System.out.println("Current URL is: " + driver3.getCurrentUrl());
         System.out.println("Page source length is: " + driver3.getPageSource().length());
-        System.out.println("Page source length is: " + driver3.getPageSource());
+        System.out.println("Page source is: " + driver3.getPageSource());
         driver3.quit();
 
         
@@ -43,7 +43,7 @@ public class OtherUrl {
         System.out.println("Page title is: " + driver4.getTitle());
         System.out.println("Current URL is: " + driver4.getCurrentUrl());
         System.out.println("Page source length is: " + driver4.getPageSource().length());
-        System.out.println("Page source length is: " + driver4.getPageSource());
+        System.out.println("Page source is: " + driver4.getPageSource());
         driver4.quit();
 
        
@@ -52,7 +52,7 @@ public class OtherUrl {
         System.out.println("Page title is: " + driver5.getTitle());
         System.out.println("Current URL is: " + driver5.getCurrentUrl());
         System.out.println("Page source length is: " + driver5.getPageSource().length());
-        System.out.println("Page source length is: " + driver5.getPageSource());
+        System.out.println("Page source is: " + driver5.getPageSource());
         driver5.quit();
 
         
@@ -61,7 +61,7 @@ public class OtherUrl {
         System.out.println("Page title is: " + driver6.getTitle());
         System.out.println("Current URL is: " + driver6.getCurrentUrl());
         System.out.println("Page source length is: " + driver6.getPageSource().length());
-        System.out.println("Page source length is: " + driver6.getPageSource());
+        System.out.println("Page source is: " + driver6.getPageSource());
         driver6.quit();
     }
 }
